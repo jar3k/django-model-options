@@ -12,7 +12,7 @@ A simple extra properties for Django models.
 
 Just simply run:
 ```
-    pip install django-model-options
+pip install django-model-options
 ```
 
 # Configuration
