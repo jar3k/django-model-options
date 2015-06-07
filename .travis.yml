@@ -1,0 +1,11 @@
+language: python
+sudo: false
+python:
+    - 3.3
+    - 3.4
+
+install:
+    - pip install coverage coveralls
+
+script:
+    - coverage run --source=model_options setup.py test
