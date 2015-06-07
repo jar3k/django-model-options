@@ -9,3 +9,7 @@ install:
 
 script:
     - coverage run --source=model_options setup.py test
+
+after_success:
+    - coverage report -m
+    - coveralls
