@@ -1,7 +1,7 @@
 # django-model-properties
 
 [![Build Status](https://travis-ci.org/jar3k/django-model-options.svg?branch=master)](https://travis-ci.org/jar3k/django-model-options)
-[![Coverage Status](https://coveralls.io/repos/jar3k/django-model-options/badge.svg)](https://coveralls.io/r/jar3k/django-model-options)
+[![Coverage Status](https://coveralls.io/repos/jar3k/django-model-options/badge.svg?branch=master)](https://coveralls.io/r/jar3k/django-model-options?branch=master)
 
 A simple extra properties for Django models.
 
@@ -12,7 +12,7 @@ A simple extra properties for Django models.
 
 Just simply run:
 ```
-    pip install django-model-options
+pip install django-model-options
 ```
 
 # Configuration
